@@ -3,7 +3,6 @@ import 'package:flutter/foundation.dart';
 import '../../models/product.dart';
 import '../../models/product.dart';
 
-
 class ProducsManager with ChangeNotifier {
   final List<Product> _item = [
     Product(

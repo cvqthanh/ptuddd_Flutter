@@ -5,7 +5,6 @@ import 'product_grid_tile.dart';
 import 'products_manager.dart';
 import 'package:provider/provider.dart';
 
-
 class ProductsGrid extends StatelessWidget {
   final bool showFavorites;
 
